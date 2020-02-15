@@ -1,0 +1,6 @@
+[submodule "thirdparty/better-rime-dict"]
+	path = thirdparty/better-rime-dict
+	url = https://github.com/Chernfalin/better-rime-dict
+[submodule "thirdparty/Rime_custom_dict"]
+	path = thirdparty/Rime_custom_dict
+	url = https://github.com/daya-prac/Rime_custom_dict

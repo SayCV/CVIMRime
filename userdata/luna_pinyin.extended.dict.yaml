@@ -14,7 +14,7 @@
 
 ---
 name: luna_pinyin.extended
-version: "2014.09.07"
+version: "2020.02.16"
 sort: by_weight
 use_preset_vocabulary: true
 #下面的是本词库包含的所有词库，请根据需要开启/禁用，词条前添删#号即可开启/关闭词库。
@@ -30,17 +30,33 @@ import_tables:
   - luna_pinyin.user
   - luna_pinyin.cn_en
   #- luna_pinyin.english
+  - luna_pinyin.ee
+  - luna_pinyin.medicine
   - luna_pinyin.biaoqing
   - luna_pinyin.website
   - luna_pinyin.game
   - luna_pinyin.anime
-  #- luna_pinyin.moba
-  #- luna_pinyin.place
-  #- luna_pinyin.poetry
-  #- luna_pinyin.movie
-  #- luna_pinyin.music
-  #- luna_pinyin.computer
-  #- luna_pinyin.history
+  - luna_pinyin.moba
+  - luna_pinyin.place
+  - luna_pinyin.poetry
+  - luna_pinyin.movie
+  - luna_pinyin.music
+  - luna_pinyin.computer
+  - luna_pinyin.history
   #- luna_pinyin.name
   #- luna_pinyin.shopping
+  - luna_pinyin.xiandaihanyuchangyongcibiao
+  - luna_pinyin.chengyusuyu
+  - luna_pinyin.sijixingzhenquhuadimingciku
+  - luna_pinyin.jisuanjicihuidaquan
+  - luna_pinyin.wangluoliuxingxinci
+  - luna_pinyin.shanghaishichengshixinxijingxuan
+  - luna_pinyin.zhongguolishicihuidaquan
+  - luna_pinyin.shanghaihuadaquan
+  - luna_pinyin.mingxing
+  #- luna_pinyin.emoji
+  - luna_pinyin.emoji.apple
+  - luna_pinyin.emoji.cldr
+  - luna_pinyin.emoji.scomper
+  - luna_pinyin.kaomoji
 ...

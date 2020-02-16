@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: emoji
+version: "2020.02.16"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin.emoji.apple
+  - luna_pinyin.emoji.cldr
+  - luna_pinyin.emoji.scomper
+  - luna_pinyin.kaomoji
+...
